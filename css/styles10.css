@@ -1586,6 +1586,7 @@ a:hover {
 }
 
 .t8-contact-form {
+  display: none;
   width: 376px;
 }
 
@@ -2118,6 +2119,7 @@ a:hover {
   }
 
   .t8-contact-form {
+    display: none;
     padding: 0 0;
   }
 
@@ -2310,6 +2312,7 @@ a:hover {
   }
 
   .t8-contact-form {
+    display: none;
     width: 100%;
     margin-right: 1rem;
   }
