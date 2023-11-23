@@ -2966,6 +2966,7 @@ a:hover {
   }
 
   .t8-contact-form .form-input {
+    display: none;
     width: 100%;
   }
 
@@ -3006,4 +3007,7 @@ a:hover {
   .contact-decor3 {
     display: none;
   }
+  .form .t8-contact-form {
+    display: none;
+  } 
 }
